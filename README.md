@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HoKKaiDo97
+- 👀 I’m interested in HTML/CSS/Java
+- 🌱 I’m currently working in Logistics
+- 💞️ I’m looking to collaborate on Discord Bots
